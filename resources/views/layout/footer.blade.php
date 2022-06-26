@@ -6,7 +6,10 @@
                      <div class="left-col">
                         <div class="left-inner">
                            <div class="inner-col second-col">
-                              <div class="footer-menu-title"><a href="{{url('software-development-services')}}">Services</a></div>
+                              <div class="footer-menu-title">
+                                 <a href="{{url('software-development-services')}}" class="sub-menu-wrapper">Services<span class="sub-menu-arrow"></span>
+                                 </a>
+                              </div>
                                 <ul class="footer-listing">
                                  <li>
                                     <a title="Custom Software Development" href="{{url('software-development-services')}}">Custom Software Development</a>
@@ -111,11 +114,13 @@
                               <div class="add-box-inner">
                                  <div class="country-name">India</div>
                                  <address>
-                                    PrajayaSolutions House,<br>
-                                    Rajpath Club Road,<br>
-                                    Ahmedabad, Gujarat, 380054
+                                    PrajayaSolutions,<br>
+                                    Near Kargil Petrol Pump,
+                                    95 Shashinagar,<br>
+                                    Near Kargil Petrol Pump,<br>
+                                    Agra, Uttar Pradesh 282007<br>
                                  </address>
-                                 <a href="tel:+919601421472" title="Call us">+91 960 142 1472</a>
+                                 <a href="tel:+918755502585" title="Call us">+91 875 550 25852</a>
                               </div>
                            </div>
                            <!-- <div class="inner-col add-box">

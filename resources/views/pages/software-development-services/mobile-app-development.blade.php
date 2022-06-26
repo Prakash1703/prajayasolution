@@ -6,6 +6,27 @@
    <link rel="stylesheet" href="{{asset('/css/services-technology3cc5.css')}}?">
    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;display=swap" media="all">
    <link rel="stylesheet" href="{{asset('/css/custom.css')}}">
+   <link rel="icon" href="{{asset('/images/mobile_app.png')}}" type="image/x-icon" />
+   <title>PrajayaSolutions - Mobile APp</title>
+       <meta name="description" content="Contact US now to develop your software application projects." />
+      <meta name="keywords" content="software development company India, web development, .net, java, php, mobile apps" />
+      <link rel="canonical" href="contact.html" />
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta property="og:locale" content="en_US">
+      <meta property="og:type" content="Website">
+      <meta property="og:site_name" content="PrajayaSolutions">
+      <meta property="og:title" content="Software Development Company - PrajayaSolutions" />
+      <meta property="og:image:alt" content="Software Development Company">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="600">
+      <meta name="twitter:title" content="Software Development Company - PrajayaSolutions">
+       <meta name="twitter:card" content="summary_large_image">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="ahrefs-site-verification" content="b415df08e231a8969f1b8cd41b382d79aad7b391549daefe58dfe03e3df57dd0">
+  
       </head>
 <body>
    <noscript>
@@ -29,23 +50,17 @@
                   <div class="container">
                      <div class="banner-content">
                         <h1 style="text-align:center;margin-top:15%">Mobile App Development Company</h1>
-                        <p style="text-align:center;">TatvaSoft is a well experienced Mobile App Development Company with a proven track record of delivering effective project management and flexible delivery models to create successful apps that help businesses in increasing efficiency and engaging with end-users in an agile manner. We strive hard to meet our customer expectations, be it native iOS, Android app, or Hybrid app.</p>
+                        <p style="text-align:center;">Prajaya Solutions is a well experienced Mobile App Development Company with a proven track record of delivering effective project management and flexible delivery models to create successful apps that help businesses in increasing efficiency and engaging with end-users in an agile manner. We strive hard to meet our customer expectations, be it native iOS, Android app, or Hybrid app.</p>
                      </div>
                   </div>
                </div>
             </section>
             <div class="tatva-service-landing-description">
-               <div class="container">
+               <div class="container dataList">
                <div class="inner-decription">
-                     <p>The exponential increase in mobile users globally has made consumption of data quite extensive. It has also opened an opportunity for entrepreneurs to think and implement innovative business ideas for app development. TatvaSoft comprises a team of mobile app developers who carry years of experience in creating high performing, feature-packed native as well as cross-platform mobile applications. We use a robust development process to create powerful apps to serve millions of users every day for both iOS and Android devices. Being an app development company, our key focus areas include maximizing performance, using attractive and seamless UI/UX designs, mitigating potential security risks by adhering to the best practices. We utilize various APIs and data connectors for creating the optimum mobile experience. Our team ensures that we deliver a robust, reliable, and seamlessly functioning mobile app that meets your business goals.</p>
+                     <p>The exponential increase in mobile users globally has made consumption of data quite extensive. It has also opened an opportunity for entrepreneurs to think and implement innovative business ideas for app development. Prajaya Solutions comprises a team of mobile app developers who carry years of experience in creating high performing, feature-packed native as well as cross-platform mobile applications. We use a robust development process to create powerful apps to serve millions of users every day for both iOS and Android devices. Being an app development company, our key focus areas include maximizing performance, using attractive and seamless UI/UX designs, mitigating potential security risks by adhering to the best practices. We utilize various APIs and data connectors for creating the optimum mobile experience. Our team ensures that we deliver a robust, reliable, and seamlessly functioning mobile app that meets your business goals.</p>
                   </div>
                   <ul class="project-information-list">
-                  <li>
-                     <div class="inner-list">
-                        <!-- <span>1800<sup>+</sup></span>
-                        <p>Completed Projects</p> -->
-                     </div>
-                  </li>
                   <li>
                      <div class="inner-list">
                         <span>150<sup>+</sup></span>
@@ -79,7 +94,7 @@
                <div class="container">
                   <div class="title-block">
                         <h2>Mobile Application Development Services</h2>
-                        <p>TatvaSoft is here to transform your business goals irrespective of the industry, OS, or complexity of the solution. With our talented team of mobile app developers and designers the delivery of a scalable, compelling, and secure app is assured.</p>
+                        <p>Prajaya Solutions is here to transform your business goals irrespective of the industry, OS, or complexity of the solution. With our talented team of mobile app developers and designers the delivery of a scalable, compelling, and secure app is assured.</p>
                      </div>
                      <div class="work-grid-wrapper">
                      <div class="work-grid common-grid">
@@ -101,7 +116,7 @@
                                  <img data-src="https://www.tatvasoft.com/public/images/native-app-development.svg" alt="application development" class="js-lazy-image">
                                  </em>
                                  <h3>Native App <span>development</span></h3>
-                                 <p>We have a team of experienced iOS and Android app developers who understand your objectives and goals and bring your ideas to reality by creating mobile apps that are unique, secure and engaging. If you are looking for a mobile application development company, TatvaSoft is the right place to be.</p>
+                                 <p>We have a team of experienced iOS and Android app developers who understand your objectives and goals and bring your ideas to reality by creating mobile apps that are unique, secure and engaging. If you are looking for a mobile application development company, Prajaya Solutions is the right place to be.</p>
                               </div>
                            </div>
                         </div>
@@ -136,7 +151,7 @@
                               <ul>
                                  <li>&nbsp;</li>
                               </ul>
-                              <p>Android is an open-source mobile OS which is widely recognized and the expertise of TatvaSoft's android development team ensures that your app stands out in the market instead of being another nameless and inefficient solution in the Play Store. We make it possible by building a scalable architecture which uses the right development tools and framework to build android apps.</p>
+                              <p>Android is an open-source mobile OS which is widely recognized and the expertise of Prajaya Solutions's android development team ensures that your app stands out in the market instead of being another nameless and inefficient solution in the Play Store. We make it possible by building a scalable architecture which uses the right development tools and framework to build android apps.</p>
                            </div>
                         </div>
                         <div class="software-testing-column">
@@ -156,7 +171,7 @@
                                  <li>Flutter</li>
                                  <li>Xamarin</li>
                               </ul>
-                              <p>Cross Platform app development ensures that the user experience is similar to a native app but with the ability to function in a similar manner across iOS and Android platforms. TatvaSoft's cross platform app developers bring this advantage to your table which ultimately helps in reducing costs and increasing performance and visibility of the app while decreasing the time to market.</p>
+                              <p>Cross Platform app development ensures that the user experience is similar to a native app but with the ability to function in a similar manner across iOS and Android platforms. Prajaya Solutions's cross platform app developers bring this advantage to your table which ultimately helps in reducing costs and increasing performance and visibility of the app while decreasing the time to market.</p>
                            </div>
                         </div>
                      </div>

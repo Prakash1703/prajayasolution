@@ -184,11 +184,11 @@ function isAlfa(e) {
             "+1 647 978 7562",
             "+1 (765) 409-9497",
             "+1 765 409 9497",
-            "career@PrajayaSolutions.com",
-            "info@PrajayaSolutions.com",
-            "info@PrajayaSolutions.co.uk",
-            "info@PrajayaSolutions.com.au",
-            "legal@PrajayaSolutions.com",
+            "career@tatvasoft.com",
+            "info@tatvasoft.com",
+            "info@tatvasoft.co.uk",
+            "info@tatvasoft.com.au",
+            "legal@tatvasoft.com",
         ];
         $("body").hasClass("tatva-landing-pages") ||
             ($("body > *").bind("cut copy paste", function (e) {
@@ -196,7 +196,7 @@ function isAlfa(e) {
                     ? -1 !== jQuery.inArray(e.target.textContent, t) || "content-wrapper" === e.target.parentElement.className || "address" == e.target.localName || e.preventDefault()
                     : "add-box-inner" !== e.target.parentElement.className && "address" !== e.target.parentElement.localName && -1 === jQuery.inArray(e.target.textContent, t) && e.preventDefault();
             }),
-            
+        
             $(document).keydown(function (e) {
                 var t = String.fromCharCode(e.keyCode).toLowerCase();
                 return 123 != e.keyCode && (!e.ctrlKey || !e.shiftKey || 73 != e.keyCode) && (!e.ctrlKey || "u" != t) && void 0;
@@ -438,7 +438,7 @@ function equalHeight() {
                 .removeClass(a);
         },
     }),
-        jQuery(".PrajayaSolutions-project-information ul li").equalHeight(),
+        jQuery(".tatvasoft-project-information ul li").equalHeight(),
         jQuery(".tatva-hiring-models-section .tatva-hiring-tab-wrapper .tatva-tab-content .tatva-hiring-col-wrapper .tatva-hiring-col .tatva-inner-col .tatva-inner-content").equalHeight(),
         jQuery(".tatva-inner-page .tatva-tools-technology-section .tatva-tools-technology-grid .tatva-tools-technology-item .tatva-tools-technology-item-inner .tatva-tools-technology-content").equalHeight(),
         jQuery(".about-value-section.why-react-native .value-listing li h3").equalHeight(),
@@ -450,7 +450,7 @@ function equalHeight() {
         jQuery(".industry-inner-expertise-section.expertise-boxes-wrapper .industry-expertise-wrapper .expertise-bottom-block .expertise-bottom-block-inner .expertise-details-block h3").equalHeight(),
         jQuery(".retail-software-solutions-wrapper .analytical-section .analytical-block-wrapper .analytical-block-inner .analytical-block h3").equalHeight(),
         jQuery(".retail-software-solutions-wrapper .ecommerce-web-app-section h3").equalHeight(),
-        jQuery(".tatva-landing-pages .white-box .PrajayaSolutions-landing-case-study-block .case-study-slider-wrapper .content-wrapper").equalHeight(),
+        jQuery(".tatva-landing-pages .white-box .tatvasoft-landing-case-study-block .case-study-slider-wrapper .content-wrapper").equalHeight(),
         setTimeout(function () {
             jQuery(".outsourcing-inner-page .process-wrapper .process-outer .process-inner .heading-part").equalHeight(),
                 jQuery(".tatva-home-testimonial .tatva-home-testimonial-block .tatva-testimonial-inner .blockquote").equalHeight(),
@@ -473,7 +473,7 @@ function equalHeight() {
                 jQuery(".tatva-service-section .work-grid-wrapper .work-grid .work-item .work-item-inner h3").equalHeight(),
                 jQuery(".innovation-grid-wrapper .innovation-grid .innovation-inner-wrapper .innovation-item-inner p").equalHeight(),
                 jQuery(".tatva-hiring-models-section .tatva-hiring-tab-wrapper .tatva-tab-content .tatva-hiring-col-wrapper .tatva-hiring-col .tatva-inner-col .tatva-inner-content").equalHeight(),
-                jQuery(".PrajayaSolutions-team-section .our-team-wrapper .our-team-outer .our-team-inner p").equalHeight();
+                jQuery(".tatvasoft-team-section .our-team-wrapper .our-team-outer .our-team-inner p").equalHeight();
         }, 500);
 }
 function init_class(e, t, a) {
@@ -487,17 +487,17 @@ function init_class(e, t, a) {
             ? (a.addClass("init-slide-last"), a.removeClass("init-slide"))
             : a.removeClass("init-slide-last"));
 }
-var why_PrajayaSolutions_flag = !($.fn.isInViewport = function () {
+var why_tatvasoft_flag = !($.fn.isInViewport = function () {
     var e = $(this).offset().top,
         t = e + $(this).outerHeight(),
         a = $(window).scrollTop(),
         r = a + $(window).height();
     return a < t && e < r;
 });
-function why_PrajayaSolutions_slider() {
+function why_tatvasoft_slider() {
     jQuery(".tatva-why-section .container .why-tatva-wrapper").length &&
         (jQuery(window).innerWidth() <= 991
-            ? why_PrajayaSolutions_flag ||
+            ? why_tatvasoft_flag ||
               (jQuery(".tatva-why-section .container .why-tatva-wrapper .why-tatva-block .why-tatva-inner .logo-wrapper img.js-lazy-image").each(function (e) {
                   jQuery(this).attr("src", jQuery(this).attr("data-src")), jQuery(this).removeAttr("data-src"), jQuery(this).removeClass("js-lazy-image");
               }),
@@ -518,8 +518,8 @@ function why_PrajayaSolutions_slider() {
               setTimeout(function (e) {
                   jQuery(".tatva-why-section .container .why-tatva-wrapper .why-tatva-block .why-tatva-inner .content-wrapper").equalHeight();
               }, 500),
-              (why_PrajayaSolutions_flag = !0))
-            : (why_PrajayaSolutions_flag = !1));
+              (why_tatvasoft_flag = !0))
+            : (why_tatvasoft_flag = !1));
 }
 var flag,
     innovation_slider_flag = !1;
@@ -730,7 +730,7 @@ function sticky_casestudy() {
         (a = jQuery(".case-study-grid-section .filter-portfolio-wrapper .filter-portfolio-inner-wrapper").innerHeight()),
         (n = t + (r = jQuery(".site-header").innerHeight())),
         jQuery(".case-study-grid-wrapper").length &&
-            (jQuery(".case-study-grid-wrapper").innerHeight() + jQuery(".PrajayaSolutions-inner-page-banner").innerHeight() + a - r < n
+            (jQuery(".case-study-grid-wrapper").innerHeight() + jQuery(".tatvasoft-inner-page-banner").innerHeight() + a - r < n
                 ? jQuery(".case-study-grid-section .filter-portfolio-wrapper .filter-portfolio-inner-wrapper").fadeOut("fast")
                 : jQuery(".case-study-grid-section .filter-portfolio-wrapper .filter-portfolio-inner-wrapper").fadeIn("fast")),
         e < n
@@ -752,21 +752,21 @@ function isAlfa(e) {
     e = (e = e || window.event).which || e.keyCode;
     return !(32 < e && (e < 65 || 90 < e) && (e < 97 || 122 < e));
 }
-// function setCookie() {
-//     var e = jQuery(".single-portfolio").data("page");
-//     null != e &&
-//         ((e = { pagename: e }),
-//         $.ajax({
-//             type: "POST",
-//             url: "https://www.PrajayaSolutions.com/ajax-file.php",
-//             dataType: "json",
-//             cache: !1,
-//             data: e,
-//             success: function (e) {
-//                 1 == e.success && (jQuery(".single-portfolio").html(""), jQuery(".single-portfolio").html(e.message));
-//             },
-//         }));
-// }
+function setCookie() {
+    var e = jQuery(".single-portfolio").data("page");
+    null != e &&
+        ((e = { pagename: e }),
+        $.ajax({
+            type: "POST",
+            url: "https://www.tatvasoft.com/ajax-file.php",
+            dataType: "json",
+            cache: !1,
+            data: e,
+            success: function (e) {
+                1 == e.success && (jQuery(".single-portfolio").html(""), jQuery(".single-portfolio").html(e.message));
+            },
+        }));
+}
 jQuery(document).ready(function () {
     $(".by-industries").on("click", function (e) {
         e.stopPropagation(), $.cookie("filter-cookie", "industry", { path: "/" });
@@ -786,7 +786,7 @@ jQuery(document).ready(function () {
             0 == $(".item-" + t).length && $(".load-more-btn").addClass("hide-item"), $(".hide-page").val(parseInt(e) + 1), $(".portfolio-loader").removeClass("active");
         }),
         setTimeout(function () {
-            // jQuery(".technology-stack-grid").length && jQuery(".technology-stack-grid").masonry({ itemSelector: ".grid-item" });
+            jQuery(".technology-stack-grid").length && jQuery(".technology-stack-grid").masonry({ itemSelector: ".grid-item" });
         }, 1500),
         fullwidthBorder(),
         jQuery(".scroll-to-content").length &&
@@ -814,8 +814,8 @@ jQuery(document).ready(function () {
                 jQuery("#" + e).addClass("current"),
                 jQuery(".tatva-hiring-models-section .tatva-hiring-tab-wrapper .tatva-tab-content .tatva-hiring-col-wrapper .tatva-hiring-col .tatva-inner-col .tatva-inner-content").equalHeight();
         }),
-        jQuery(".PrajayaSolutions-development-case-study .inner-case-study-detail .inner-case-study-detail-block-wrapper").length &&
-            jQuery(".PrajayaSolutions-development-case-study .inner-case-study-detail .inner-case-study-detail-block-wrapper").slick({
+        jQuery(".tatvasoft-development-case-study .inner-case-study-detail .inner-case-study-detail-block-wrapper").length &&
+            jQuery(".tatvasoft-development-case-study .inner-case-study-detail .inner-case-study-detail-block-wrapper").slick({
                 dots: !0,
                 arrows: !0,
                 slidesToScroll: 1,
@@ -882,7 +882,7 @@ jQuery(document).ready(function () {
         sticky_header(),
         hiringmodel_accordian(),
         setTimeout(function () {
-            slide_effect(), why_PrajayaSolutions_slider();
+            slide_effect(), why_tatvasoft_slider();
         }, 350),
         equalHeight(),
         max_equal_height(),
@@ -901,7 +901,7 @@ jQuery(document).ready(function () {
         (WebFontConfig = { google: { families: ["Open+Sans:300,400,600,700&display=swap"] } }),
         (function () {
             var e = document.createElement("script");
-            // (e.src = "https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"), (e.type = "text/javascript"), (e.async = "true");
+            (e.src = "https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"), (e.type = "text/javascript"), (e.async = "true");
             var t = document.getElementsByTagName("script")[0];
             t.parentNode.insertBefore(e, t);
         })(),
@@ -919,7 +919,7 @@ jQuery(document).ready(function () {
             innovation_slider(),
                 general_faq(),
                 setTimeout(function () {
-                    equalHeight(), why_PrajayaSolutions_slider();
+                    equalHeight(), why_tatvasoft_slider();
                 }, 300);
         }),
         $(".landing-software-expert-wrapper form").on("submit", function (e) {
@@ -993,13 +993,13 @@ jQuery(document).ready(function () {
             fullwidthBorder(),
             sticky_header(),
             setTimeout(function () {
-                // jQuery(".technology-stack-grid").length && jQuery(".technology-stack-grid").masonry({ itemSelector: ".grid-item" });
+                jQuery(".technology-stack-grid").length && jQuery(".technology-stack-grid").masonry({ itemSelector: ".grid-item" });
             }, 1e3);
     }),
     jQuery(window).resize(function () {
         scrollspy_block(),
             setTimeout(function () {
-                why_PrajayaSolutions_slider();
+                why_tatvasoft_slider();
             }, 300),
             sticky_casestudy(),
             footer_accordian(),
@@ -1023,5 +1023,5 @@ jQuery(document).ready(function () {
             innovation_slider();
     }),
     jQuery(window).on("scroll", function () {
-        // scrollspy(), sticky_casestudy(), sticky_header(), jQuery(".technology-stack-grid").length && jQuery(".technology-stack-grid").isInViewport && jQuery(".technology-stack-grid").masonry({ itemSelector: ".grid-item" });
+        scrollspy(), sticky_casestudy(), sticky_header(), jQuery(".technology-stack-grid").length && jQuery(".technology-stack-grid").isInViewport && jQuery(".technology-stack-grid").masonry({ itemSelector: ".grid-item" });
     });

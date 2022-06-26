@@ -6,6 +6,27 @@
    <link rel="stylesheet" href="{{asset('/css/services-technology.css')}}?">
    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;display=swap" media="all">
    <link rel="stylesheet" href="{{asset('/css/custom.css')}}">   
+   <link rel="icon" href="{{asset('/images/mobile_app.png')}}" type="image/x-icon" />
+   <title>PrajayaSolutions - Web Development</title>
+       <meta name="description" content="Contact US now to develop your software application projects." />
+      <meta name="keywords" content="software development company India, web development, .net, java, php, mobile apps" />
+      <link rel="canonical" href="contact.html" />
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta property="og:locale" content="en_US">
+      <meta property="og:type" content="Website">
+      <meta property="og:site_name" content="PrajayaSolutions">
+      <meta property="og:title" content="Software Development Company - PrajayaSolutions" />
+      <meta property="og:image:alt" content="Software Development Company">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="600">
+      <meta name="twitter:title" content="Software Development Company - PrajayaSolutions">
+       <meta name="twitter:card" content="summary_large_image">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="ahrefs-site-verification" content="b415df08e231a8969f1b8cd41b382d79aad7b391549daefe58dfe03e3df57dd0">
+  
       </head>
 <body>
    <noscript>
@@ -40,12 +61,7 @@
                   <p>Transforming your custom business ideas into an innovative next-gen web app is our forte. With proven results and promising qualitative deliverables across multiple tech markets, TatvaSoft endures the client demands at scale and offers high-quality web development customized business solutions. Upkeeping with changing client's expectations, our team of qualified web app developers delivers an impressive and secure web experience. Our deep domain expertise combined with technology innovation help clients build disruptive user-friendly web applications with superior customer experience and higher business agility.</p>
                   </div>
                   <ul class="project-information-list">
-                  <li>
-                     <div class="inner-list">
-                        <!-- <span>1800<sup>+</sup></span>
-                        <p>Completed Projects</p> -->
-                     </div>
-                  </li>
+                   
                   <li>
                      <div class="inner-list">
                         <span>150<sup>+</sup></span>
@@ -590,6 +606,7 @@
    @include('layout.footer')
    <script src="{{asset('/js/vendor.js')}}"></script>
    <script src="{{asset('/js/mainf700.js')}}"></script>
+   
 </body>
 <!-- Mirrored from www.tatvasoft.com/software-development-services/software-development-services by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Jun 2022 07:28:20 GMT -->
 </html>

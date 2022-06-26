@@ -6,6 +6,27 @@
       <link rel="stylesheet" href="{{asset('/css/services-technology.css')}}?">
       <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;display=swap" media="all">
       <link rel="stylesheet" href="{{asset('/css/custom.css')}}">
+      <link rel="icon" href="{{asset('/images/mobile_app.png')}}" type="image/x-icon" />
+   <title>PrajayaSolutions - Product Development</title>
+       <meta name="description" content="Contact US now to develop your software application projects." />
+      <meta name="keywords" content="software development company India, web development, .net, java, php, mobile apps" />
+      <link rel="canonical" href="contact.html" />
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta property="og:locale" content="en_US">
+      <meta property="og:type" content="Website">
+      <meta property="og:site_name" content="PrajayaSolutions">
+      <meta property="og:title" content="Software Development Company - PrajayaSolutions" />
+      <meta property="og:image:alt" content="Software Development Company">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="600">
+      <meta name="twitter:title" content="Software Development Company - PrajayaSolutions">
+       <meta name="twitter:card" content="summary_large_image">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="ahrefs-site-verification" content="b415df08e231a8969f1b8cd41b382d79aad7b391549daefe58dfe03e3df57dd0">
+  
          </head>
    <body>
       <noscript>
@@ -35,45 +56,47 @@
                   </div>
                </section>
                <div class="tatva-service-landing-description">
-                  <div class="container">
+                  <div class="container dataList">
 				  <div class="inner-decription">
                         <p>To convert your vision into reality, we assist you from software product ideation to design, development, release, and maintenance. Every successful product is unique in its market and with its uniqueness, it brings risk and uncertainties during the software product development process. We as a leading software product development company conceptualize and strategize the entire roadmap to reduce the risk, keep time and development cost under control and provide high-quality stable product. With highly collaborative approach, we understand the scope, business scenarios and potential user types to create a product with good UX, cloud, data and security as their prime focus.</p>
-                     </div>
-                     <ul class="project-information-list">
-                    <li>
-                        <div class="inner-list">
-                           <!-- <span>1800<sup>+</sup></span>
-                           <p>Completed Projects</p> -->
-                        </div>
-                     </li>
-                     <li>
-                        <div class="inner-list">
-                           <span>150<sup>+</sup></span>
-                           <p>Completed Projects</p>
-                        </div>
-                     </li>
-                     <li>
-                        <div class="inner-list">
-                           <span>10<sup>+</sup></span>
-                           <p>Years of Experience</p>
-                        </div>
-                     </li>
-                     <li>
-                        <div class="inner-list">
-                           <span>25<sup>+</sup></span>
-                           <p>Global Customers</p>
-                        </div>
-                     </li>
-                     <li>
-                        <div class="inner-list">
-                           <span>15</span>
-                           <p>Countries Clients Served</p>
-                        </div>
-                     </li>
-                     
-                   
-                  </ul>
+               </div>
+                  <div classs="test">
+                        <ul class="project-information-list">
+                        <li>
+                              <div class="inner-list">
+                                 <!-- <span>1800<sup>+</sup></span>
+                                 <p>Completed Projects</p> -->
+                              </div>
+                           </li>
+                           <li>
+                              <div class="inner-list">
+                                 <span>150<sup>+</sup></span>
+                                 <p>Completed Projects</p>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="inner-list">
+                                 <span>10<sup>+</sup></span>
+                                 <p>Years of Experience</p>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="inner-list">
+                                 <span>25<sup>+</sup></span>
+                                 <p>Global Customers</p>
+                              </div>
+                           </li>
+                           <li>
+                              <div class="inner-list">
+                                 <span>15</span>
+                                 <p>Countries Clients Served</p>
+                              </div>
+                           </li>
+                           
+                        
+                        </ul>
                   </div>
+               </div>
                </div>
                <section class="tatva-service-section">
                   <div class="container">

@@ -1,25 +1,31 @@
+html, body {
+    overflow-x: hidden;
+  }
+  body {
+    position: relative
+  }
 .site-header .header-wrapper .logo-wrapper a img{
     width: 10.3rem !important;
-}
-@media (max-width: 991px){
-    .site-header .header-wrapper .navigation-wrapper .main-nav .navigation-inner .menu-navigation>li {
-        margin-top: 4% !important;
-    }
-    .tatva-home-banner {
-        min-height: 250px;
-        margin-top: 13% !important;
-    }
+    height: 4.5rem !important;
 }
 
 @media (max-width: 1023px){
-    .site-header .header-wrapper .logo-wrapper a img {
-        width: 14rem !important;
-        height: 8.7rem !important;
+
+    h1 {
+        margin-top: 22% !important;
     }
+   
 }
-.sticky-header .site-header{
-    background: rgba(11,46,88,.9) !important;
+
+@media (min-width: 1023px){
+
+    .project-information-list>li{
+        margin-left: 5rem!important;
+    }
+   
 }
-.site-header {
-    background: rgba(11,46,88,.9) !important;
+
+
+.site-header .header-wrapper .navigation-wrapper .main-nav .navigation-inner .menu-navigation>li .sub-menu-open .sub-menu-arrow {
+    background-image: url("/images/menu_minus.svg");
 }

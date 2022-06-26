@@ -6,6 +6,27 @@
    <link rel="stylesheet" href="{{asset('/css/services-technology3cc5.css')}}?">
    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;display=swap" media="all">
    <link rel="stylesheet" href="{{asset('/css/custom.css')}}">
+   <link rel="icon" href="{{asset('/images/mobile_app.png')}}" type="image/x-icon" />
+   <title>PrajayaSolutions - Ecommerce</title>
+       <meta name="description" content="Contact US now to develop your software application projects." />
+      <meta name="keywords" content="software development company India, web development, .net, java, php, mobile apps" />
+      <link rel="canonical" href="contact.html" />
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta property="og:locale" content="en_US">
+      <meta property="og:type" content="Website">
+      <meta property="og:site_name" content="PrajayaSolutions">
+      <meta property="og:title" content="Software Development Company - PrajayaSolutions" />
+      <meta property="og:image:alt" content="Software Development Company">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="600">
+      <meta name="twitter:title" content="Software Development Company - PrajayaSolutions">
+       <meta name="twitter:card" content="summary_large_image">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="ahrefs-site-verification" content="b415df08e231a8969f1b8cd41b382d79aad7b391549daefe58dfe03e3df57dd0">
+  
       </head>
 <body>
    <noscript>
@@ -29,23 +50,18 @@
                   <div class="container">
                      <div class="banner-content">
                         <h1 style="text-align:center;margin-top:15%">Ecommerce Development Company</h1>
-                        <p style="text-align:center;">Scale up your ecommerce business graph against market disruptions with customized ecommerce development platforms. TatvaSoft's capability to build flexible and resilient ecommerce platforms empowers businesses to provide omnichannel, mobile and personalized experience.</p>
+                        <p style="text-align:center;">Scale up your ecommerce business graph against market disruptions with customized ecommerce development platforms. Prajaya Solutions's capability to build flexible and resilient ecommerce platforms empowers businesses to provide omnichannel, mobile and personalized experience.</p>
                      </div>
                   </div>
                </div>
             </section>
             <div class="tatva-service-landing-description">
-               <div class="container">
+               <div class="container dataList">
                <div class="inner-decription">
                      <p>Ecommerce is one of the fastest growing industries so collaborating with one of the top ecommerce development companies becomes a top priority for many businesses. Our experts understand your business process and deliver a scalable ecommerce solution that is able to adapt as per the changing technology and industry trends. Our fundamental goal for ecommerce businesses is to develop smart online stores that are advanced and technically ahead of time. We follow agile methodology to develop scalable and future-ready online platforms with the help of our skilled and resourceful ecommerce developers.</p>
                   </div>
                   <ul class="project-information-list">
-                  <li>
-                     <div class="inner-list">
-                        <!-- <span>1800<sup>+</sup></span>
-                        <p>Completed Projects</p> -->
-                     </div>
-                  </li>
+                   
                   <li>
                      <div class="inner-list">
                         <span>150<sup>+</sup></span>

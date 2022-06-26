@@ -8,6 +8,26 @@
    <link rel="stylesheet" href="{{asset('/css/about9f1e.css')}}?">
    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;display=swap" media="all">
    <link rel="stylesheet" href="{{asset('/css/custom.css')}}">
+   <title>PrajayaSolutions - About US</title>
+       <meta name="description" content="Contact US now to develop your software application projects." />
+      <meta name="keywords" content="software development company India, web development, .net, java, php, mobile apps" />
+      <link rel="canonical" href="contact.html" />
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta property="og:locale" content="en_US">
+      <meta property="og:type" content="Website">
+      <meta property="og:site_name" content="PrajayaSolutions">
+      <meta property="og:title" content="Software Development Company - PrajayaSolutions" />
+      <meta property="og:image:alt" content="Software Development Company">
+      <meta property="og:image:width" content="1200">
+      <meta property="og:image:height" content="600">
+      <meta name="twitter:title" content="Software Development Company - PrajayaSolutions">
+       <meta name="twitter:card" content="summary_large_image">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+       <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="ahrefs-site-verification" content="b415df08e231a8969f1b8cd41b382d79aad7b391549daefe58dfe03e3df57dd0">
+  
 </head>
       
 <body>
@@ -52,7 +72,7 @@
             </div>
             <section class="test about-nutshell-section webp-images" style="background-image: url('{{asset('/images/about-nutshell-banner.webp')}}');" data-webp="{{asset('/images/about-nutshell-banner.webp')}}">
                <img src="{{asset('/images/about-nutshell-banner.webp')}}" alt="about-nutshell-banner" class="webp-images img-webp hide-image" data-webp="{{asset('/images/about-nutshell-banner.webp')}}">
-               <div class="container">
+               <div class="container dataList">
                   <h2>In a Nutshell</h2>
                   <ul class="nutshell-listing">
                      <li>

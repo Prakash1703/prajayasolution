@@ -141,7 +141,7 @@
                               <a href="blog/index.html">Insights</a>
                            </li> -->
                            <li class="about-sub-menu has-megamenu ">
-                              <a href="{{URL('about')}}">about</a>
+                              <a href="#">about</a>
                               <div class="sub-menu-wrapper">
                                  <span class="mobile-menu-inner-arrow">Back</span>
                                  <ul class="sub-menu">
@@ -150,15 +150,16 @@
                                        About Us
                                        </a>
                                     </li>
-                                    <!-- <li>
-                                       <a href="career.html">Career</a>
-                                    </li>
                                     <li>
-                                       <a href="our-team.html">Our Team</a>
-                                    </li> -->
+                                       <a href="{{URL('career')}}">Career</a>
+                                    </li>
+                                    
                                  </ul>
                               </div>
                               <span class="mobile-menu-arrow"></span>
+                           </li>
+                           <li class="about-sub-menu has-megamenu ">
+                              <a href="#">BPO</a>
                            </li>
                            <li class="contact-wrapper">
                               <a href="{{URL('contact')}}" class="btn yellow-btn">contact</a>

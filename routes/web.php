@@ -22,6 +22,9 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
+Route::get('/career', function () {
+    return view('pages.career');
+});
 Route::get('/software-development-services', function () {
     return view('pages.software-development-services.software-development-services');
 });

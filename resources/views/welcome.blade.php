@@ -18,13 +18,13 @@
          </div>
         @include('layout.header')
          <main>
-            <section class="test tatva-home-banner">
+            <!-- <section class="test tatva-home-banner">
                <h1></h1>
-               <div class="webp-images tatva-desktop-banner tatva-home-banner-img" style="background-image:url('{{url('images/home-banner.webp')}}');" >
-                  <img src="{{asset('images/home-banner.webp')}}" class="webp-images img-webp hide-image" >
+               <div class="webp-images tatva-desktop-banner tatva-home-banner-img" style="background-image:url('{{url('images/home-banner.jpg')}}');" >
+                  <img src="{{asset('images/home-banner.jpg')}}" class="webp-images img-webp hide-image" >
                </div>
-               <div class="webp-images tatva-mobile-banner tatva-home-banner-img" style="background-image:url('{{url('images/home-banner.webp')}}');">
-                  <img src="{{asset('images/home-banner.webp')}}" alt="Banner Image" class="webp-images img-webp hide-image" >
+               <div class="webp-images tatva-mobile-banner tatva-home-banner-img" style="background-image:url('{{url('images/home-banner.jpg')}}');">
+                  <img src="{{asset('images/home-banner.jpg')}}" alt="Banner Image" class="webp-images img-webp hide-image" >
                </div>
                <div class="container">
                   <div class="banner-caption">
@@ -32,16 +32,25 @@
                      <p>Prajaya Solutions excels in solving complex business challenges using thought process and technology solutions.</p>
                   </div>
                </div>
-            </section>
+            </section> -->
+            <section class="tatva-home-banner">
+<div class="webp-images tatva-desktop-banner tatva-home-banner-img" style="background-image: url('https://www.tatvasoft.com/public/images/home-banner.webp');" data-webp="https://www.tatvasoft.com/public/images/home-banner.jpg">
+<img src="https://www.tatvasoft.com/public/images/home-banner.webp" alt="Banner Image" class="webp-images img-webp hide-image" data-webp="https://www.tatvasoft.com/public/images/home-banner.jpg">
+</div>
+<div class="webp-images tatva-mobile-banner tatva-home-banner-img" style="background-image: url('https://www.tatvasoft.com/public/images/mobile-banners/home-banner-mob.webp');" data-webp="https://www.tatvasoft.com/public/images/mobile-banners/home-banner-mob.jpg">
+<img src="https://www.tatvasoft.com/public/images/mobile-banners/home-banner-mob.webp" alt="Banner Image" class="webp-images img-webp hide-image" data-webp="https://www.tatvasoft.com/public/images/mobile-banners/home-banner-mob.jpg">
+</div>
+<div class="container">
+<div class="banner-caption">
+<h2>Sculpt Your Thoughts TO REALITY</h2>
+<p>TatvaSoft excels in solving complex business challenges using thought process and technology solutions.
+</p>
+</div>
+</div>
+</section>
             <section class="tatva-service-section tatva-home-service">
-               <div class="container">
+               <div class="container dataList">
                   <ul class="project-information-list">
-                    <li>
-                        <div class="inner-list">
-                           <!-- <span>1800<sup>+</sup></span>
-                           <p>Completed Projects</p> -->
-                        </div>
-                     </li>
                      <li>
                         <div class="inner-list">
                            <span>150<sup>+</sup></span>
@@ -166,7 +175,7 @@
                               <img data-src="https://www.tatvasoft.com/public/images/development_center.svg" alt="services_icon" class="js-lazy-image default-image">
                               <img data-src="https://www.tatvasoft.com/public/images/development_center_hover.svg" alt="services_icon_hover" class="js-lazy-image hover-image">
                               </em>
-                              <h3>Dedicated Team</h3>
+                              <h3>BPO Service</h3>
                               <p>Grow your business development team as per project size and meet intermittent deadlines utilizing our flexible resource model.</p>
                               <!-- <a href="software-development-services/dedicated-development-team.html" title="Dedicated Team" class="arrow-link">
                               <em>
@@ -635,6 +644,9 @@
                }
             </script> -->
          </main>
+         <style type="text/css">
+                .st2{fill:#a9c5d7;}
+            </style>
       </div>
       @include('layout.footer')
       <script src="{{asset('/js/vendor.js')}}"></script>
